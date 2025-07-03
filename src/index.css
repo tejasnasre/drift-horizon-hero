@@ -38,6 +38,12 @@ All colors MUST be HSL.
 
     --radius: 0.5rem;
 
+    /* Motorsports theme colors */
+    --motorsports-red: 0 85% 55%;
+    --motorsports-silver: 0 0% 80%;
+    --motorsports-dark: 0 0% 8%;
+    --motorsports-overlay: 0 0% 0%;
+
     --sidebar-background: 0 0% 98%;
 
     --sidebar-foreground: 240 5.3% 26.1%;

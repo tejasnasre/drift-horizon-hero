@@ -63,6 +63,15 @@ export default {
 					ring: 'hsl(var(--sidebar-ring))'
 				}
 			},
+			fontFamily: {
+				'bebas': ['Bebas Neue', 'cursive'],
+			},
+			colors: {
+				'motorsports-red': 'hsl(var(--motorsports-red))',
+				'motorsports-silver': 'hsl(var(--motorsports-silver))',
+				'motorsports-dark': 'hsl(var(--motorsports-dark))',
+				'motorsports-overlay': 'hsl(var(--motorsports-overlay))',
+			},
 			borderRadius: {
 				lg: 'var(--radius)',
 				md: 'calc(var(--radius) - 2px)',
