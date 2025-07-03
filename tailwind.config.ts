@@ -72,6 +72,7 @@ export default {
 				'bebas': ['Bebas Neue', 'cursive'],
 				'rajdhani': ['Rajdhani', 'sans-serif'],
 				'orbitron': ['Orbitron', 'monospace'],
+				'michroma': ['Michroma', 'monospace'],
 			},
 			borderRadius: {
 				lg: 'var(--radius)',
