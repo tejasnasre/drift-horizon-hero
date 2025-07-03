@@ -1,3 +1,4 @@
+
 import type { Config } from "tailwindcss";
 
 export default {
@@ -61,16 +62,16 @@ export default {
 					'accent-foreground': 'hsl(var(--sidebar-accent-foreground))',
 					border: 'hsl(var(--sidebar-border))',
 					ring: 'hsl(var(--sidebar-ring))'
-				}
-			},
-			fontFamily: {
-				'bebas': ['Bebas Neue', 'cursive'],
-			},
-			colors: {
+				},
 				'motorsports-red': 'hsl(var(--motorsports-red))',
 				'motorsports-silver': 'hsl(var(--motorsports-silver))',
 				'motorsports-dark': 'hsl(var(--motorsports-dark))',
 				'motorsports-overlay': 'hsl(var(--motorsports-overlay))',
+			},
+			fontFamily: {
+				'bebas': ['Bebas Neue', 'cursive'],
+				'rajdhani': ['Rajdhani', 'sans-serif'],
+				'orbitron': ['Orbitron', 'monospace'],
 			},
 			borderRadius: {
 				lg: 'var(--radius)',

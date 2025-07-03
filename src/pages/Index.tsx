@@ -1,7 +1,8 @@
-import MotorsportsHero from "@/components/MotorsportsHero";
+
+import DriftHero from "@/components/DriftHero";
 
 const Index = () => {
-  return <MotorsportsHero />;
+  return <DriftHero />;
 };
 
 export default Index;
